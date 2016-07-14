@@ -1028,6 +1028,9 @@ Image, video, audio, reading — [back to top](#readme)
   - https://github.com/shagedorn/StateRestorationDemo
 - Swift-Demos: Collection of demos for Swift 🔶🇨🇳🔥🔥🔥🔥
   - https://github.com/Lax/iOS-Swift-Demos
+- libs-for-iOS:Collected some plugins and build their demos
+  - https://github.com/joveth/libs-for-iOS
+  - https://itunes.apple.com/us/app/libs-for-developer/id1036090151?mt=8
 
 ## Science 
  
